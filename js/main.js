@@ -36,7 +36,12 @@ elForm.addEventListener("submit" , function(evt){
     console.log(oddNumber);
 
 
+
   }
+
+  elInput.value = "";
+
+
 
 
 })
